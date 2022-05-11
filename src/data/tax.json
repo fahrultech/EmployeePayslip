@@ -1,0 +1,37 @@
+[
+    {
+        "minTaxableIncome" : 0,
+        "maxTaxableIncome" : 18200,
+        "basicTax" : 0,
+        "cent" : 0,
+        "taxDeduct" : 0
+    },
+    {
+        "minTaxableIncome" : 18201,
+        "maxTaxableIncome" : 37000,
+        "basicTax" : 0,
+        "cent" : 19,
+        "taxDeduct" : 18200
+    },
+    {
+        "minTaxableIncome" : 37001,
+        "maxTaxableIncome" : 87000,
+        "basicTax" : 3572,
+        "cent" : 32.5,
+        "taxDeduct" : 37000
+    },
+    {
+        "minTaxableIncome" : 87001,
+        "maxTaxableIncome" : 180000,
+        "basicTax" : 19822,
+        "cent" : 37,
+        "taxDeduct" : 87000
+    },
+    {
+        "minTaxableIncome" : 180001,
+        "maxTaxableIncome" : "Infinity",
+        "basicTax" : 54232,
+        "cent" : 45,
+        "taxDeduct" : 180000
+    }
+]
