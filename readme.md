@@ -78,4 +78,21 @@ Payment Date = 01 March - 31 March
 ### Requirement
 - You need to have node.js install in your computer
 ### Clone Repository
-- 
+Clone this repository using command as below:
+```
+git clone git@github.com:fahrultech/EmployeePayslip.git
+```
+### Instal Dependencies
+Before run the app you need to install node module depencies
+```
+npm install
+```
+### Start the app
+To start the app use command below :
+```
+npm start
+```
+
+The app will start in command prompt. You just have to input the value.
+
+# Thank You
