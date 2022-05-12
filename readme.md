@@ -74,6 +74,14 @@ Super = $ 450
 Payment Date = 01 March - 31 March
 ```
 
+## Test
+- The test is only against the payslip calculation algorithm.
+- We use 3 test case.
+- We add excelsheet manual calculation for payslip for result comparation.
+- To run test use command below:
+```
+npm test
+```
 ## Usage
 ### Requirement
 - You need to have node.js install in your computer

@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Andrew Smith",
+        "paymentDate" : "01 March - 31 March",
+        "grossIncome" : 5004,
+        "incomeTax" : 922,
+        "netIncome" : 4082,
+        "super" : 450
+    },
+    {
+        "name":"Claire Wong",
+        "paymentDate" : "01 March - 31 March",
+        "grossIncome" : 10000,
+        "incomeTax" : 2669,
+        "netIncome" : 7331,
+        "super" : 1000
+    },
+    {
+        "name":"John Wayne",
+        "paymentDate" : "01 March - 31 March",
+        "grossIncome" : 16250,
+        "incomeTax" : 5082,
+        "netIncome" : 11168,
+        "super" : 1950
+    }
+]

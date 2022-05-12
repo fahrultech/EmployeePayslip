@@ -5,7 +5,7 @@ const result = {
     name:'',
     grossIncome: 0,
     incomeTax: 0,
-    date: "",
+    paymentDate: "",
     netIncome: 0,
     super: 0
 }
