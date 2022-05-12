@@ -4,8 +4,9 @@ This is the Back End Technical Test
 ## Stack
 - Node.js
 ## Problem Solving Steps
-- Make json file contain the 2017-2018 tax rate and will act as database
-- The Json Format contain array of items as Below
+- This project use 2017-2018 tax rates table.
+- Make json file contain the 2017-2018 tax rate and will act as database.
+- The Json Format contain array of items as Below.
 ```
 [
     {
